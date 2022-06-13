@@ -1,7 +1,6 @@
 # Practica-Examen
 
-# Apartado 1
-<br>
+
 # Ejercicio 1
 
 ## Usamos el comando docker pull ubuntu:18.04 para descargar una imagen de ubuntu
