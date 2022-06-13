@@ -27,3 +27,35 @@
 ## A continuación usaremos el comando docker run centos ls / para entrar al contenedor de centos y realizar un ls
     comando docker run centos ls /
 ![ejemplo1](https://github.com/hectorherediavidal/Practica-Examen/blob/main/img/2%20de%202.PNG "") 
+
+
+# Ejercicio 3
+
+## Vamos a crear un contenedor de httpd con el comando docker run httpd para tener un servidor Web Apache
+    docker run httpd
+![ejemplo1](https://github.com/hectorherediavidal/Practica-Examen/blob/main/img/httpd.PNG "") 
+<br>
+<br>
+
+
+# Ejercicio 4
+
+## Ahora vamos a crear un contenedor para debian9 y mostraremos el contenido de la carpeta de este contenedor con el siguiente comando:
+    docker run -it -w /etc debian:9 ls
+![ejemplo1](https://github.com/hectorherediavidal/Practica-Examen/blob/main/img/debian.PNG "") 
+<br>
+<br>
+
+## Con el comando docker ps veremos los contenedores en estado up:
+    docker ps
+![ejemplo1](https://github.com/hectorherediavidal/Practica-Examen/blob/main/img/ps.PNG "") 
+<br>
+<br>
+
+
+## Con el comando docker ps -a veremos los contenedores en estado up y en estado exited:
+    docker ps -a
+![ejemplo1](https://github.com/hectorherediavidal/Practica-Examen/blob/main/img/ps%20-a.PNG "") 
+<br>
+<br>
+
