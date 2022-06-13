@@ -1,5 +1,7 @@
 # Practica-Examen
 
+# Apartado 1
+<br>
 # Ejercicio 1
 
 ## Usamos el comando docker pull ubuntu:18.04 para descargar una imagen de ubuntu
@@ -58,4 +60,9 @@
 ![ejemplo1](https://github.com/hectorherediavidal/Practica-Examen/blob/main/img/ps%20-a.PNG "") 
 <br>
 <br>
+
+
+
+# Apartado 2
+
 
